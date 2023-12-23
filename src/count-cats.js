@@ -5,7 +5,7 @@ const {
 /**
  * Given matrix where you have to find cats by ears "^^"
  *
- * @param {Array<Array>} matrix 
+ * @param {Array<Array>} matrix
  * @return {Number} count of cats found
  *
  * @example
